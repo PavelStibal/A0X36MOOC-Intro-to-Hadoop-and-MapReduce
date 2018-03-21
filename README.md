@@ -5,20 +5,20 @@ Scripts, that are listed in this github, written in Python 2.7 for Udacity cours
 
 ## Lesson 6: Project
 
-### Part 1 - Sales Data
-* Q1 - Sales per Category 
-* Q2 - Highest Sale
-* Q3 - Total Sales
+- Part 1 - Sales Data
+  - Q1 - Sales per Category 
+  - Q2 - Highest Sale
+  - Q3 - Total Sales
 
-### Part 2 - Web Log Data
-* Q1 - Hits to Page
-* Q2 - Hits from IP
-* Q3 - Most Popular
+- Part 2 - Web Log Data
+  - Q1 - Hits to Page
+  - Q2 - Hits from IP
+  - Q3 - Most Popular
 
 ## Lesson 7: MapReduce Design Patterns
-* Q1 - Filtering Exercise
-* Q2 - Top 10
-* Q3 - Inverted Index
-* Q4 - Finding Mean
-* Q5 - Combiners
-* Q6 - Combine Datasets
+- Q1 - Filtering Exercise
+- Q2 - Top 10
+- Q3 - Inverted Index
+- Q4 - Finding Mean
+- Q5 - Combiners
+- Q6 - Combine Datasets
