@@ -22,3 +22,9 @@ Scripts, that are listed in this github, written in Python 2.7 for Udacity cours
 - Q4 - Finding Mean
 - Q5 - Combiners
 - Q6 - Combine Datasets
+
+## Lesson 8: Project Prep
+- Q1 - Student Times
+- Q2 - Post and Answer Length
+- Q3 - Top Tags
+- Q4 - Study Groups
