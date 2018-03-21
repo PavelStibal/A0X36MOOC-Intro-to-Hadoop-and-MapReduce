@@ -10,3 +10,6 @@ Q1 - Sales per Category, Q2 - Highest Sale, Q3 - Total Sales
 
 ### Part 2 - Web Log Data
 Q1 - Hits to Page, Q2 - Hits from IP, Q3 - Most Popular
+
+## Lesson 7: MapReduce Design Patterns
+Q1 - Filtering Exercise, Q2 - Top 10, Q3 - Inverted Index, Q4 - Finding Mean, Q5 - Combiners, Q6 - Combine Datasets
